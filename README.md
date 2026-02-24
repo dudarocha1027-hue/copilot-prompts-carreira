@@ -82,4 +82,19 @@ Evoluir para uma posição estratégica com foco em eficiência operacional, imp
 
 ## 📸 Evidências
 
-(Serão adicionados prints da execução dos agentes)
+## 📸 Evidências da Execução dos Agentes
+
+### 🔹 1) Sugestão das 3 carreiras pelo AGENT 1
+![Evidência 1](assets/evidencia1.png)
+
+### 🔹 2) Escolha da carreira (Head de Operações / Business Strategy)
+![Evidência 2](assets/evidencia2.png)
+
+### 🔹 3) Início do Planejamento com AGENT 2
+![Evidência 3](assets/evidencia3.png)
+
+### 🔹 4) Plano de 90 dias gerado
+![Evidência 4](assets/evidencia4.png)
+
+### 🔹 5) Estratégia completa e direcionamento final
+![Evidência 5](assets/evidencia5.png)
